@@ -1,4 +1,4 @@
-# Java клиент, отправлялющий данные на REST API приложение RestAppProject3
+# Java клиент, отправляющий данные на REST API приложение RestAppProject3
 Создал Java клиента, который бы отправлял данные на
 REST API приложение - с помощью класса RestTemplate.
 
